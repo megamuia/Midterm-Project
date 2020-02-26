@@ -1,0 +1,15 @@
+.jumbotron{
+	background-color: #ff57;
+	background-image: url("imgs/bg.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100%;
+}
+.jumbotron p{
+	color: white;
+	text-shadow: 0 0 10px rgba(0,0,0,0.5)
+}
+.jumbotron .container{
+	max-width: 60rem;
+	background: rgba(0,0,0,0.2);
+}
